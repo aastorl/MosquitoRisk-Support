@@ -1,9 +1,9 @@
-# Soporte – MosquitOFF
+# Soporte – MosquitoRisk
 
-**Última actualización:** 29/09/2025
+**Última actualización:** 21/10/2025
 
-Si tenés preguntas, inquietudes o problemas con la app MosquitOFF, podés contactarnos a través de:
+Si tenés preguntas, inquietudes o problemas con la app MosquitoRisk, podés contactarnos a través de:
 
 📧 **Correo electrónico:** aastorl79@gmail.com
 
-Agradecemos tus comentarios y trabajamos para mejorar MosquitOFF constantemente.
+Agradecemos tus comentarios y trabajamos para mejorar MosquitoRisk constantemente.
